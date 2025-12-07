@@ -1,5 +1,5 @@
 # PROYECTO-FINAL_ZEVALLOS-ESCATE
-Proyecto
+
 Este repositorio contiene todas las actividades desarrolladas durante el curso de Sistematización y métodos estadisticos, como parte de mi proceso de aprendizaje en RStudio.
 
 Incluye:
